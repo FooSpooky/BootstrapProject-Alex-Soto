@@ -1,0 +1,19 @@
+.fontStyle{
+    font-family: 'Times New Roman', Times, serif;
+}
+.color{
+    background-color: darkgray;
+    color:white;
+    width: 100%;
+}
+.col-styling{
+    min-height: 450px;
+    max-height:450px;
+}
+.height-restriction{
+    min-height: 400px;
+}
+.alignment{
+    position:relative;
+    top:150px;
+}
